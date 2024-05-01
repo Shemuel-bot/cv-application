@@ -1,0 +1,10 @@
+@font-face {
+  font-family: roboto;
+  src: url('../fonts/roboto/Roboto/Roboto-Light.ttf');
+}
+:root{
+  background-color: #e2e8f0;
+}
+*{
+  font-family: roboto;
+}
